@@ -110,3 +110,6 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Copyright © Microsoft Corporation All rights reserved.<br />
 Licensed under the MIT License. See LICENSE in the project root for license information.
+## GitHub Collaboration Workflow
+
+This project demonstrates collaborative development using GitHub's fork-and-pull request workflow. Changes are developed in feature branches and merged through pull requests.
